@@ -16,7 +16,7 @@ This project is an interactive market analysis dashboard developed using Microso
 
 ✅ Dynamic filtering and drill-down analysis for deeper insights
 
-# Screenshot
+# 🖼️ Screenshot
 <img width="1342" height="733" alt="PP" src="https://github.com/user-attachments/assets/08dca80f-ccbe-4519-85a5-e3abf3fda2d9" />
 
 📈 Visualizations Included
