@@ -1,101 +1,171 @@
-# 📊 Dairy Products Market Analysis Dashboard – Power BI Project
+# Products & Customers Analysis Dashboard – Power BI Project
 
-# 📝 Overview
-This project is an interactive market analysis dashboard developed using Microsoft Power BI. The dashboard provides detailed insights into dairy product sales, customer behavior, and market performance. It helps businesses analyze product demand, customer trends, and sales performance through interactive visualizations and dynamic reporting.
+## Overview
 
-# 🌟 Features
-✅ Fully interactive dashboard with multi-page navigation
+This project presents an interactive **Products and Customers Analysis Dashboard** developed using **Microsoft Power BI** to analyze product performance, customer segments, sales, profit, and quantity metrics.
+The dashboard provides detailed insights into category profitability, customer behavior, and business performance to support strategic decision-making.
 
-✅ Product performance analysis for dairy categories
+---
 
-✅ Customer behavior and purchasing insights
+# Dashboard Sections
 
-✅ Sales trend monitoring and market analysis
+## 1. Products Analysis Dashboard
 
-✅ KPI cards for revenue, sales performance, and customer metrics
+### Purpose
 
-✅ Dynamic filtering and drill-down analysis for deeper insights
+The Products Analysis page focuses on evaluating:
 
-# 🖼️ Screenshot
-<img width="1342" height="733" alt="PP" src="https://github.com/user-attachments/assets/08dca80f-ccbe-4519-85a5-e3abf3fda2d9" />
+* Product profitability
+* Category performance
+* Sub-category analysis
+* Product-level losses and gains
 
-📈 Visualizations Included
+---
 
-Bar & Column Charts:
+### Key KPIs
 
-Product sales comparison
+The dashboard includes summary indicators such as:
 
-Top-performing dairy products
+* **#Products:** 1862
+* **Total Sales:** 2.30M
+* **Total Profit:** 286.4K
 
-Customer purchase analysis
+These KPIs provide a quick overview of overall business performance.
 
-Line Charts:
+---
 
-Sales trends over time
+### Interactive Filters
 
-Market performance tracking
+Users can filter the dashboard by:
 
-Revenue growth analysis
+* Category
+* Sub-Category
+* Product Name
 
-Pie & Donut Charts:
+This allows dynamic exploration of product performance.
 
-Product category contribution
+---
 
-Customer segmentation analysis
+### Profit Analysis Flow
 
-Market share distribution
+A decomposition-style visualization analyzes profit from:
 
-Tables & Matrices:
+1. Category Level
+2. Sub-Category Level
+3. Product Level
 
-Detailed customer insights
+This helps identify:
 
-Product-level sales performance
+* Most profitable categories
+* Underperforming products
+* Loss-making product lines
 
-Transaction and revenue summaries
+---
 
-KPI Cards:
+### Key Insights
 
-Total Sales
+* Technology generated the highest profit.
+* Office Supplies maintained strong profitability.
+* Furniture produced lower profits compared to other categories.
+* Tables and Bookcases showed negative profitability.
+* Several individual products contributed to business losses.
 
-Revenue Performance
+---
 
-Customer Count
+## 2. Customers Analysis Dashboard
 
-Product Performance Metrics
+### Purpose
 
-# 🔍 Key Insights
-🥛 Dairy product sales trends can be analyzed to identify top-performing categories.
+The Customers Analysis page focuses on customer segmentation and purchasing behavior.
 
-📈 Customer behavior analysis supports better marketing and sales strategies.
+---
 
-🎯 Product-level insights help improve inventory and business planning decisions.
+### Key KPIs
 
-🌍 Interactive market analytics provide a clearer understanding of sales distribution and customer demand.
+The dashboard highlights:
 
-📅 Trend analysis enables businesses to monitor growth opportunities and seasonal performance changes.
+* **#Products:** 1862
+* **Total Quantity:** 38K
+* **Total Profit:** 286.4K
 
-# 🖼️ Dashboard Highlights
+---
 
-Modern and visually engaging dashboard design
+### Quantity by Segment
 
-User-friendly navigation across multiple report pages
+A donut chart visualizes quantity distribution among customer segments:
 
-Interactive business intelligence reporting
+* Consumer
+* Corporate
+* Home Office
 
-Data-driven insights for market and sales analysis
+This helps identify the largest purchasing segment.
 
-# 📎 Tools & Technologies Used
+---
 
-Microsoft Power BI
+### Sales by Segment
 
-Power Query
+A column chart compares sales performance across customer groups:
 
-DAX (Data Analysis Expressions)
+* Consumer segment generated the highest sales.
+* Corporate segment followed in overall contribution.
+* Home Office showed lower sales performance.
 
-Data Modeling
+---
 
-Interactive Visualizations
+### Profit by Segment
 
-KPI Cards & Slicers
+A profit comparison chart analyzes profitability by customer segment:
 
+* Consumer customers contributed the highest profit.
+* Corporate customers maintained moderate profitability.
+* Home Office customers generated the lowest profit.
+
+---
+
+## Tools & Technologies
+
+* **Microsoft Power BI**
+* Power Query
+* DAX Measures
+* Data Modeling
+* Interactive Dashboards
+* Business Intelligence Visualization Techniques
+
+---
+
+## Business Value
+
+This dashboard helps businesses:
+
+* Analyze product profitability
+* Detect loss-making products
+* Understand customer purchasing behavior
+* Improve inventory and sales strategies
+* Support data-driven decision-making
+
+---
+
+## Key Business Insights
+
+* Consumer customers are the primary revenue source.
+* Technology products drive most profits.
+* Some furniture products negatively impact profitability.
+* Product-level analysis enables targeted optimization strategies.
+
+---
+
+## Future Improvements
+
+* Add regional and geographic analysis.
+* Include customer retention metrics.
+* Integrate forecasting and trend analysis.
+* Add time-based sales performance tracking.
+* Implement advanced drill-through analytics.
+
+---
+
+
+<img width="1375" height="741" alt="P4" src="https://github.com/user-attachments/assets/dc479cbc-03fa-4ae0-b649-463bdfece3d1" />
+
+<img width="1342" height="733" alt="PP" src="https://github.com/user-attachments/assets/7117e7e1-ed51-4f43-b1c4-7a7aac190d9e" />
 
